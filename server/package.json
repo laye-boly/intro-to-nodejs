@@ -12,6 +12,7 @@
   "dependencies": {
     "body-parser": "^1.19.2",
     "express": "^4.17.3",
-    "morgan": "^1.10.0"
+    "morgan": "^1.10.0",
+    "reddit-cli-laye": "^1.0.0"
   }
 }
